@@ -1,12 +1,14 @@
-# Welcome to My GitHub Profile
-
-## About Me
+---
+layout: page
+title: About
+permalink: /about/
+---
 Hello! I'm Allen Zhang, a coder with a passion for creating. I enjoy working on projects related to web and ai, and I'm always eager to learn new things and take on challenges.
 
 ## Skills
 - Programming Languages: Java
 - Tools and Technologies: Spring
-- Other Skills: 
+- Other Skills:
 
 ## Projects
 Here are some of the projects I've been working on:

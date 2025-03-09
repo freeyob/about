@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Java Debugger"
+date:   2025-03-09 12:54:40 +0900
+categories: java 系统设计
+---
 > 为什么要写这个文档？？
 > 1. 学习Debugger的设计
 > 2. 实现一个ZED java debugger（如果需要的话，我就继续写，如果不需要，先暂停）
